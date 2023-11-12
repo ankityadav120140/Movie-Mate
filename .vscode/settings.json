@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "C:/Users/Ankit/Desktop/MovieMate/movie_mate/windows/flutter"
+}
